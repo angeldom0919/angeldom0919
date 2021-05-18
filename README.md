@@ -4,7 +4,7 @@
 ## Contact Information
 ### Phone: _970.630.6889_
 ### Email: _angeldom.0919@gmail.com_
-### Occupation: Currently a full time student at New Horizons Computer Learning Center
+### Occupation: Full time student at New Horizons Computer Learning Center
 
 **Summary:**
 
