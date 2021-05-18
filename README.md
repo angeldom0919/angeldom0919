@@ -1,5 +1,6 @@
 # Angel Dominguez
-![IMG_2036](https://user-images.githubusercontent.com/82829737/118718081-148acf80-b7e4-11eb-8f59-10f0ad51832a.jpeg)
+<img src="https://user-images.githubusercontent.com/82829737/118718081-148acf80-b7e4-11eb-8f59-10f0ad51832a.jpeg" width="250" />
+
 ## Contact Information
 ### Phone: _970.630.6889_
 ### Email: _angeldom.0919@gmail.com_
