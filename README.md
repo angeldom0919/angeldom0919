@@ -1,16 +1,21 @@
-### Hi there 👋
+# Angel Dominguez
+![IMG_2036](https://user-images.githubusercontent.com/82829737/118718081-148acf80-b7e4-11eb-8f59-10f0ad51832a.jpeg)
+## Contact Information
+### Phone: _970.630.6889_
+### Email: _angeldom.0919@gmail.com_
+### Occupation: Currently a full time student at New Horizons Computer Learning Center
 
-<!--
-**angeldom0919/angeldom0919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Summary:**
 
-Here are some ideas to get you started:
+Aspiring Software Developer. Military Veteran with programming experience and striving to overcome any challenge. Secret Clearance (inactive). Persistent and resilient working individual, ambitious to learn, and eager to work with others and lead subordinates. Keen problem solving and critical thinking skills. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technology Skills:
+* Python
+* Java 
+* HTML5   
+* CSS3 
+* Javascript 
+* MySQL
+* MERN (in progress)
+* MEAN (in progress) 
+* GITHub (in progress) 
