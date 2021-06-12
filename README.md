@@ -4,6 +4,7 @@
 ## Contact Information
 ### Phone: _970.630.6889_
 ### Email: _angeldom.0919@gmail.com_
+### LinkedIn: linkedin.com/in/angel-dominguez-188676166
 ### Occupation: Full time student at New Horizons Computer Learning Center
 
 **Summary:**
